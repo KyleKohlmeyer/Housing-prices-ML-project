@@ -1,5 +1,7 @@
 # Project4-MachineLearning
 Project 4: Using Machine Learning to predict housing trends in the city of Chicago
+Kyle Kohlmeyer, Kelci Griffin, Conner Cox, and Lindsay McFadyen 
+The original repository used for this project can be found in Kelci's repository, https://github.com/kelcigriffin/Project4-MachineLearning
 
 ## Background:
 We decided that it would be interesting to apply machine learning techniques to uncover hidden trends in the housing market. Specifically, we were interested in using location socioeconomic factors in housing price predictions, and trying to discover which factors had the greatest impact on price. 
