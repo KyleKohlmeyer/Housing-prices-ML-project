@@ -1,0 +1,125 @@
+Column,DataType
+Unnamed: 0,int64
+pin,int64
+Property Class,int64
+Neighborhood Code,int64
+Land Square Feet,float64
+Town Code,int64
+Type of Residence,float64
+Apartments,float64
+Wall Material,float64
+Roof Material,float64
+Rooms,float64
+Bedrooms,float64
+Basement,float64
+Basement Finish,float64
+Central Heating,float64
+Other Heating,float64
+Central Air,float64
+Fireplaces,float64
+Attic Type,float64
+Attic Finish,int64
+Half Baths,float64
+Design Plan,float64
+Cathedral Ceiling,float64
+Construction Quality,float64
+Renovation,float64
+Site Desirability,float64
+Garage 1 Size,float64
+Garage 1 Material,float64
+Garage 1 Attachment,float64
+Garage 1 Area,float64
+Garage 2 Size,float64
+Garage 2 Material,float64
+Garage 2 Attachment,float64
+Garage 2 Area,float64
+Porch,int64
+Other Improvements,float64
+Building Square Feet,float64
+Repair Condition,float64
+Multi Code,float64
+Number of Commercial Units,float64
+Estimate (Land),int64
+Estimate (Building),int64
+Sale Date,object
+Deed No.,int64
+Sale Price,int64
+Total Building Square Feet,float64
+Multi Property Indicator,int64
+Property Address,object
+Modeling Group,object
+Full Baths,float64
+Age,int64
+Use,int64
+Number of Units,float64
+Condo Class Factor,float64
+Multi-Family Indicator,float64
+"Condition, Desirability and Utility",object
+O'Hare Noise,float64
+Floodplain,float64
+Road Proximity,float64
+Condo Strata,float64
+Sale Year,int64
+Sale Quarter,int64
+Sale Half-Year,int64
+Sale Quarter of Year,int64
+Sale Month of Year,int64
+Sale Half of Year,int64
+Most Recent Sale,float64
+Age Squared,int64
+Age Decade,float64
+Age Decade Squared,float64
+Lot Size Squared,float64
+Improvement Size Squared,float64
+Pure Market Filter,int64
+Garage Indicator,float64
+Neigborhood Code (mapping),int64
+Square root of lot size,float64
+Square root of age,float64
+Square root of improvement size,float64
+Town and Neighborhood,int64
+class,object
+township_name,object
+township_code,int64
+neighborhood_code,int64
+tax_district_code,int64
+longitude,float64
+latitude,float64
+property_address,object
+property_city,object
+property_state,object
+property_zip,float64
+ward_num,float64
+chicago_community_area_num,float64
+chicago_community_area_name,object
+qualified_opportunity_zone_num,float64
+flood_fs_factor,float64
+flood_fs_risk_direction,float64
+ohare_noise_contour_no_buffer_bool,object
+ohare_noise_contour_half_mile_buffer_bool,object
+airport_noise_dnl,float64
+airport_noise_data_year,object
+school_elementary_district_name,object
+school_secondary_district_name,object
+cmap_walkability_no_transit_score,float64
+cmap_walkability_total_score,float64
+subdivision_id,object
+num_pin_in_half_mile,float64
+num_bus_stop_in_half_mile,float64
+num_foreclosure_in_half_mile_past_5_years,float64
+num_foreclosure_per_1000_pin_past_5_years,float64
+num_school_in_half_mile,float64
+nearest_bike_trail_dist_ft,float64
+nearest_cta_route_name,object
+nearest_cta_stop_dist_ft,float64
+lake_michigan_dist_ft,float64
+lake_michigan_data_year,float64
+nearest_major_road_dist_ft,float64
+nearest_metra_stop_dist_ft,float64
+nearest_park_dist_ft,float64
+nearest_railroad_dist_ft,float64
+nearest_water_name,object
+nearest_water_dist_ft,float64
+nearest_neighbor_1_dist_ft,float64
+nearest_neighbor_2_dist_ft,float64
+nearest_neighbor_3_dist_ft,float64

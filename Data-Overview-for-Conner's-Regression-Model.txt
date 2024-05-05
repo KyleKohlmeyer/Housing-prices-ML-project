@@ -1,0 +1,51 @@
+Data Overview
+
+Sale Price Stats: count     28569
+mean     354461.566803
+std      136040.772332
+min      200000.000000
+25%      247500.000000
+50%      313750.000000
+75%      425000.000000
+max      750000.000000
+Name: Sale Price, dtype: float64
+Sale Price: count     28569
+mean     354461.566803
+std      136040.772332
+min      200000.000000
+25%      247500.000000
+50%      313750.000000
+75%      425000.000000
+max      750000.000000
+Name: Sale Price, dtype: float64
+Sale Date: count          28569
+unique          1723
+top       01/03/2018
+freq              56
+Name: Sale Date, dtype: object
+latitude: count    2672
+mean        41.902367
+std          0.093893
+min         41.650938
+25%         41.828410
+50%         41.939803
+75%         41.973124
+max         42.022650
+Name: latitude, dtype: float64
+longitude: count    26727
+mean       -87.729082
+std          0.060081
+min        -87.846184
+25%        -87.779952
+50%        -87.730953
+75%        -87.685183
+max        -87.527347
+Name: longitude, dtype: float64
+Building Square Feet: count    28569
+mean      1503.64584
+std        530.16796
+min        432.00000
+25%       1112.00000
+50%       1384.00000
+75%       1786.00000
+max       7832.00000
